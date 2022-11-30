@@ -1,8 +1,3 @@
-#// Don't forget to hit SUBSCRIBE, COMMENT, LIKE, SHARE! and LEARN... :)
-# But srsly, hit that sub button so you don't miss out on more content! 
-
-
-'''imports'''
 import smtplib
 import sys
 
@@ -28,7 +23,7 @@ def banner():
              |#########################|        [__ ._ _ [__) _ ._ _ |_  _ ._.
             |###########################|       [___[ | )[__)(_)[ | )[_)(/,[
            |#############################|
-           |#############################|              Author: w3w3w3
+           |#############################|              Author: Ntloyiya Okuhle
            |#############################|
             |###########################|
              \#########################/
